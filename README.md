@@ -15,6 +15,8 @@
   clone the respository and run 'npm i' in the terminal
 
   ## Usage
+  edit the .evn.example file as per the instructions written there.
+  
   run the command 'npm run seed' in the terminal to seed the database, 
   
   run the command 'npm start' in the terminal to start the application
