@@ -16,10 +16,18 @@
 
   ## Usage
   edit the .evn.example file as per the instructions written there.
+
+  from the terminal run 'mysql -u root -p' enter then put in your password 
+
+  once you are in mysql run the command 'source db/schema.sql' 
+
+  then run 'quit' to exit mysql
   
   run the command 'npm run seed' in the terminal to seed the database, 
   
   run the command 'npm start' in the terminal to start the application
+  
+  [link to walkthrough video on how to set it up](https://drive.google.com/file/d/1teiixLEpYOfYHVod0l1haNwlU1xYmxQ4/view?usp=sharing)
 
   then open up Insomnia to test the api routes
 
@@ -27,7 +35,7 @@
   ![screenshot](/assets/Screenshot1.png)
   ![screenshot](/assets/Screenshot2.png)
 
-  [link to walkthrough video](https://drive.google.com/file/d/146_UdR8w68UPUVKjtvSppm-TwO7mk8ir/view?usp=sharing)
+  [link to walkthrough video testing Api routes in Insomnia](https://drive.google.com/file/d/146_UdR8w68UPUVKjtvSppm-TwO7mk8ir/view?usp=sharing)
 
   ## License
   This project is licensed under MIT.
